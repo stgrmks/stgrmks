@@ -1,4 +1,4 @@
-<h1>Hey there! 👋</h1>
+# Hey there! 👋
 I´m a Backend Engineer working at [Comsysto](https://www.comsystoreply.com). My daily work revolves around handling / processing geospatial data for various use cases.
 
 ## Technologies
