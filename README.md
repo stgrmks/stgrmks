@@ -1,5 +1,5 @@
 # Hey there! 👋
-I´m a Developer working at [Comsysto](https://www.comsystoreply.com). My daily work revolves around handling / processing geospatial data for various use cases.
+I´m a Developer working at [Comsysto](https://www.comsystoreply.com). My daily work revolves around handling / processing geospatial data for various use cases. Personal interests currently focus on wearable sensor based sport performance analysis.
 
 ## Technologies
 
