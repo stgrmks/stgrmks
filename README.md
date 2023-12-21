@@ -1,11 +1,11 @@
 # Hey there! 👋
-I´m a Backend Engineer working at [Comsysto](https://www.comsystoreply.com). My daily work revolves around handling / processing geospatial data for various use cases.
+I´m a Developer working at [Comsysto](https://www.comsystoreply.com). My daily work revolves around handling / processing geospatial data for various use cases.
 
 ## Technologies
 
 **Frameworks**
 
-<img title="Spring" alt="Spring" width="40px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png"><img title="Jakarta" alt="Jakarta" width="40px" src="https://avatars.githubusercontent.com/u/36201228?s=48&v=4"><img title="Fastapi" alt="Fastapi" width="40px" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"><img title="ActiveMQ" alt="ActiveMQ" width="40px" src="https://avatars.githubusercontent.com/u/47359?s=48&v=4">
+<img title="Spring" alt="Spring" width="40px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png"><img title="ActiveMQ" alt="ActiveMQ" width="40px" src="https://avatars.githubusercontent.com/u/47359?s=48&v=4"><img title="Jakarta" alt="Jakarta" width="40px" src="https://avatars.githubusercontent.com/u/36201228?s=48&v=4"><img title="Fastapi" alt="Fastapi" width="40px" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"><img title="Scrapy" alt="Scrapy" width="40px" src="https://avatars.githubusercontent.com/u/733635?s=48&v=4"><img title="React" alt="React" width="40px" src="https://avatars.githubusercontent.com/u/69631?s=48&v=4">
 
 **Databases**
 
